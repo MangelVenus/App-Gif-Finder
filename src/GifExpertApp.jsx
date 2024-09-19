@@ -16,7 +16,7 @@ export const GifExpertApp = () => {
   return (
     <>
 
-      <h1>GifExpertApp</h1>
+      <h1>Doro Gif</h1>
 
       <AddCategory
         onNewCategory={ (value) => onAddCategory(value) } 
@@ -30,6 +30,12 @@ export const GifExpertApp = () => {
           />
         ))
       }
+
+      <footer>
+        <p>Esta es una App de prueba</p>
+        <p>No nos hacemos resposables por el contenido que pueda aparecer relacionado a las busquedas realizadas.</p>
+      </footer>
+      
     </>
   )
 }
