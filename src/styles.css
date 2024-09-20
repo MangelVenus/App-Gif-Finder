@@ -15,7 +15,7 @@
     font-size: 1.2rem;
     outline: none;
     padding: 10px 15px;
-    width: 600%;
+    width: 100%;
   }
   
   h2 {
@@ -63,7 +63,7 @@
   }
 
   h1{
-    position: fixed;
+    /* position: fixed; */
     top: 0;
     left: 10px;
   }
@@ -71,7 +71,7 @@
   form{
     position: fixed;
     top: 15px;
-    left: 150px;
+    width: 90%;
     
   }
 

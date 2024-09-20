@@ -35,7 +35,7 @@ export const GifExpertApp = () => {
         <p>Esta es una App de prueba</p>
         <p>No nos hacemos resposables por el contenido que pueda aparecer relacionado a las busquedas realizadas.</p>
       </footer>
-      
+
     </>
   )
 }
